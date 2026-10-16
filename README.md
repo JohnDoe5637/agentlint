@@ -40,3 +40,22 @@ Optional field: `"error": "timeout"`
 1. `agentlint.py`: the tool
 2. `trace.jsonl`: sample log with problems
 3. `clean.jsonl`: sample log with no problems
+
+## Future Improvements
+
+AgentLint is an early-stage project focused on identifying inefficiencies in AI agent execution logs. The goal is to develop it into a more comprehensive debugging and performance analysis tool.
+
+Potential improvements include:
+
+- **Performance metrics:** Track total tool calls, failure rates, and estimated token usage across agent runs.
+- **Cost analysis:** Estimate API costs based on token consumption and model pricing.
+- **Duplicate detection:** Improve detection of redundant tool calls, including requests with slightly different inputs.
+- **Reporting:** Generate structured JSON and HTML reports summarizing detected issues.
+- **Visualization:** Build a dashboard for comparing agent performance across multiple runs.
+- **Automated testing:** Add unit tests to verify detection accuracy across different log formats.
+
+## Project Goals
+
+The long-term objective is to make debugging AI agents easier by automatically identifying unnecessary operations, failed tool calls, and inefficient context usage.
+
+AgentLint is built with Python and designed to be lightweight, easy to run, and adaptable to different agent logging systems.
