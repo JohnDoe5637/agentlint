@@ -75,3 +75,11 @@ git clone https://github.com/JohnDoe5637/agentlint.git
 Navigate to the project directory:
 
 cd agentlint
+
+## Usage
+
+Run the analyzer from your terminal:
+
+python analyzer.py
+
+Review the output to identify potential issues in your code.
