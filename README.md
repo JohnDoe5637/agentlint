@@ -65,3 +65,13 @@ AgentLint is built with Python and designed to be lightweight, easy to run, and 
 - Analyze code for potential issues
 - Identify areas for improvement
 - Provide clear, actionable feedback
+
+- ## Installation
+
+Clone the repository:
+
+git clone https://github.com/JohnDoe5637/agentlint.git
+
+Navigate to the project directory:
+
+cd agentlint
