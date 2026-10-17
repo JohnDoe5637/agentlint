@@ -83,3 +83,10 @@ Run the analyzer from your terminal:
 python analyzer.py
 
 Review the output to identify potential issues in your code.
+
+## Future Improvements
+
+- Add support for additional programming languages
+- Improve error detection and reporting
+- Expand automated testing
+- Add configuration options for custom analysis
