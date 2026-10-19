@@ -90,3 +90,5 @@ Review the output to identify potential issues in your code.
 - Improve error detection and reporting
 - Expand automated testing
 - Add configuration options for custom analysis
+
+- Agentlint analyzes agent execution traces to identify inefficiencies.
