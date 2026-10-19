@@ -95,4 +95,6 @@ Review the output to identify potential issues in your code.
 
 - The analyzer supports structured JSONL trace data.
 
+- The project is designed for lightweight agent performance analysis.
+
 - Sample traces are included for testing and development.
