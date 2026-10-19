@@ -1,0 +1,3 @@
+{"tool": "search", "args": {"q": "weather"}, "input_tokens": 500}
+{"tool": "calculator", "args": {"x": 2}, "input_tokens": 700}
+{"tool": "fetch_page", "args": {"url": "a.com"}, "input_tokens": 900}
