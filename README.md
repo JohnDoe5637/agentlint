@@ -92,3 +92,5 @@ Review the output to identify potential issues in your code.
 - Add configuration options for custom analysis
 
 - Agentlint analyzes agent execution traces to identify inefficiencies.
+
+- The analyzer supports structured JSONL trace data.
