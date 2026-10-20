@@ -102,3 +102,4 @@ Review the output to identify potential issues in your code.
 ## Feature Ideas
 
 - Test different AI models and see which ones have more errors than others.
+- See if error detection correlates to model ratings.
