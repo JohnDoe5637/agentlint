@@ -98,3 +98,7 @@ Review the output to identify potential issues in your code.
 - The project is designed for lightweight agent performance analysis.
 
 - Sample traces are included for testing and development.
+
+## Feature Ideas
+
+- Test different AI models and see which ones have more errors than others.
