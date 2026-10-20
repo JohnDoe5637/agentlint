@@ -103,3 +103,4 @@ Review the output to identify potential issues in your code.
 
 - Test different AI models and see which ones have more errors than others.
 - See if error detection correlates to model ratings.
+- See if there are cases where newer models potentially have more errors than older versions.
