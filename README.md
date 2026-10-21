@@ -56,9 +56,7 @@ Potential improvements include:
 
 ## Project Goals
 
-The long-term objective is to make debugging AI agents easier by automatically identifying unnecessary operations, failed tool calls, and inefficient context usage.
 
-AgentLint is built with Python and designed to be lightweight, easy to run, and adaptable to different agent logging systems.
 
 ## Features
 
