@@ -78,11 +78,6 @@ cd agentlint
 
 ## Usage
 
-Run the analyzer from your terminal:
-
-python analyzer.py
-
-Review the output to identify potential issues in your code.
 
 ## Future Improvements
 
