@@ -14,16 +14,7 @@ A command-line tool that reads AI agent logs and flags wasted effort and failure
 py agentlint.py trace.jsonl
 ```
 
-## Example output
 
-```
-WASTE: search was called 3 times with the same input {"q": "weather"}
-FAILED: fetch_page failed with error: timeout
-FAILED: fetch_page failed with error: 404
-BLOAT: turn 4 input jumped from 700 to 5000 tokens
-BLOAT: turn 6 input jumped from 5200 to 9000 tokens
-Found 5 issues.
-```
 
 ## Log format
 
