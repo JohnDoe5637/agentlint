@@ -2,11 +2,7 @@
 
 A command-line tool that reads AI agent logs and flags wasted effort and failures.
 
-## What it detects
 
-1. **WASTE**: the same tool called more than once with the same input
-2. **FAILED**: tool calls that returned an error
-3. **BLOAT**: input tokens that jump by more than 2000 between turns
 
 ## Usage
 
